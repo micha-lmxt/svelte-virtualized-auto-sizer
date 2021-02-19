@@ -1,0 +1,42 @@
+{
+  "name": "svelte-virtualized-auto-sizer",
+  "version": "1.0.0",
+  "description": "Port from react-virtualized-auto-sizer - High-order component that automatically adjusts the width and height of a single child.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "micha-lmxt <micha-lmxt@gradientdescent.de> (https://gradientdescent.de)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react-virtualized-auto-sizer": "^1.0.0",
+    "react-virtualized-auto-sizer": "^1.0.4"
+  },
+  "peerDependencies": {
+    "svelte": "^3.32.3"
+  },
+  "types": "index.d.ts",
+  "bugs": {
+    "url": "https://github.com/micha-lmxt/svelte-virtualized-auto-sizer/issues"
+  },
+  "homepage": "https://github.com/micha-lmxt/svelte-virtualized-auto-sizer/",
+  "keywords": [
+    "react",
+    "reactjs",
+    "virtual",
+    "svelte",
+    "sveltejs",
+    "window",
+    "windowed",
+    "list",
+    "scrolling",
+    "infinite",
+    "virtualized",
+    "table",
+    "grid",
+    "spreadsheet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micha-lmxt/svelte-virtualized-auto-sizer.git"
+  }
+}
